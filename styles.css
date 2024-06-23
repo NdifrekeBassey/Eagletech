@@ -71,12 +71,14 @@ section {
 
 #home {
     height: 100vh;
-    background: url('hero-bg.jpg') no-repeat center center/cover;
-    color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.hero {
+    z-index: 1;
 }
 
 .hero h1 {
@@ -161,22 +163,22 @@ footer {
     .nav-links a {
         padding: 1rem;
         display: block;
+        text-align: center;
     }
 
     .burger {
         display: block;
     }
 
+    .nav-active {
+        display: flex;
+    }
+
     .service-content {
         flex-direction: column;
-        align-items: flex-start;
     }
 
     .service-content img {
         margin-bottom: 1rem;
     }
-}
-
-.nav-active {
-    display: flex;
 }

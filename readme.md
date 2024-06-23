@@ -10,7 +10,7 @@ The project consists of the following files:
 
 - **`index.html`**: The main HTML file containing the structure of the website.
 - **`styles.css`**: The CSS file containing styles and layout information for the website.
-- **`scripts.js`**: The JavaScript file adding interactivity, such as the mobile navigation menu.
+- **`scripts.js`**: The JavaScript file adding interactivity, such as the mobile navigation menu and background animation.
 
 ---
 
@@ -19,6 +19,7 @@ The project consists of the following files:
 - **📱 Responsive Design**: The website is fully responsive and works well on different screen sizes, from mobile devices to desktop monitors.
 - **🎨 Modern Layout**: The design follows modern web design principles, with a clean and user-friendly interface.
 - **🛠️ Interactive Navigation**: A hamburger menu is implemented for easy navigation on mobile devices.
+- **🌟 Animated Background**: The welcome section features an animated background with squares, circles, and triangles.
 
 ---
 
